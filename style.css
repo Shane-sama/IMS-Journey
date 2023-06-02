@@ -1,0 +1,18 @@
+html{
+    background-color: rgb(39, 37, 37);
+    color: white;
+}
+
+nav{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+body{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+
+    align-items: center ;
+}
