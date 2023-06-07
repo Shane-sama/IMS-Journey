@@ -1,5 +1,8 @@
 html{
-    background-color: rgb(39, 37, 37);
+    background: rgb(39, 37, 37);
+    background: linear-gradient(160deg, rgb(39, 37, 37) 25%, rgba(39, 37, 37, 0.75));
+
+    height: 100%;
     color: white;
 }
 
