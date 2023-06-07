@@ -23,6 +23,11 @@ body{
     align-items: center ;
 }
 
+a{
+    color: white;
+    text-decoration: none;
+}
+
 #home{
     max-width: 32px;    
     max-height: 32px;
@@ -32,4 +37,5 @@ body{
     display: flex;
     flex-flow: row nowrap;
     align-items: center;
+    gap: 2px;
 }
