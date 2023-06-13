@@ -1,5 +1,5 @@
 <p align="center">
-    <img max-width="500px" src="assets/favicon.png">
+    <img width="500" src="assets/favicon.png">
 </p>
 
 # IMS-Journey
