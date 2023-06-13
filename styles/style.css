@@ -26,6 +26,16 @@ body{
     align-items: center ;
 }
 
+footer{
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+    bottom: 0;
+
+    width: 100%;
+    background-color: rgb(27, 27, 27);
+}
+
 a{
     color: white;
     text-decoration: none;
