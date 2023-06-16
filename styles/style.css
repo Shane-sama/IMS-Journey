@@ -22,13 +22,13 @@ body{
     display: flex;
     flex-flow: column wrap;
     justify-content: center;
-
     align-items: center ;
 }
 
 footer{
     display: flex;
     justify-content: space-around;
+    align-items: center;
     position: fixed;
     bottom: 0;
 
@@ -51,4 +51,9 @@ a{
     flex-flow: row nowrap;
     align-items: center;
     gap: 2px;
+}
+
+#GitHubLink{
+    max-width: 32px;    
+    max-height: 32px;
 }
