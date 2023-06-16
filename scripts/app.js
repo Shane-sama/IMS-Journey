@@ -1,10 +1,16 @@
 function callNeko(){
     var elementExists = document.getElementById("neko");
     if(!elementExists){
+        let button = document.createElement("button");
+        button.onclick = function(){
+            callNeko();
+        };
+        button.innerHTML = 'Next Picture';
+        document.getElementById("mainDiv").appendChild(button);
+
         const img = new Image(300);
         img.id = "neko";
-        document.body.appendChild(img);
-        document.getElementById("mainDiv");
+        document.getElementById("mainDiv").appendChild(img);
     }
 
     fetch('https://nekos.best/api/v2/neko')

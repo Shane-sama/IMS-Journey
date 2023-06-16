@@ -53,6 +53,12 @@ a{
     gap: 2px;
 }
 
+#mainDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 #GitHubLink{
     max-width: 32px;    
     max-height: 32px;
