@@ -27,7 +27,7 @@ body{
 
 footer{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     align-items: center;
     position: fixed;
     bottom: 0;
@@ -56,4 +56,8 @@ a{
 #GitHubLink{
     max-width: 32px;    
     max-height: 32px;
+}
+
+#neko{
+    max-width: 300px;
 }
