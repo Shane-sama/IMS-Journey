@@ -6,7 +6,7 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/shane-sama/ims-journey/badge)](https://www.codefactor.io/repository/github/shane-sama/ims-journey)
 
 [![English](https://img.shields.io/badge/Language-English-blue.svg)](https://github.com/Shane-sama/IMS-Journey/blob/main/README.md)
-[![Deutsch](https://img.shields.io/badge/Language-Deutsch-red.svg)](https://github.com/Shane-sama/IMS-Journey/blob/main/README.de-CH.MD)
+[![Deutsch](https://img.shields.io/badge/Language-Deutsch-red.svg)](https://github.com/Shane-sama/IMS-Journey/blob/main/README-de.MD)
 
 In diesem Projekt möchte ich mich darauf fokusieren eine Webseite zu erstellen, auf welcher ich meine Erfahrungen aus der IMS sammle.
 
