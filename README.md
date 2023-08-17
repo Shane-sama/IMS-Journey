@@ -3,6 +3,8 @@
 </p>
 
 # IMS-Journey
+[![CodeFactor](https://www.codefactor.io/repository/github/shane-sama/ims-journey/badge)](https://www.codefactor.io/repository/github/shane-sama/ims-journey)
+
 [![English](https://img.shields.io/badge/Language-English-blue.svg)](https://github.com/Shane-sama/IMS-Journey/blob/main/README.md)
 [![Deutsch](https://img.shields.io/badge/Language-Deutsch-red.svg)](https://github.com/Shane-sama/IMS-Journey/blob/main/README.de-CH.MD)
 
